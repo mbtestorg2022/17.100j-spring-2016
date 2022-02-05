@@ -4,18 +4,171 @@ title: Calendar
 uid: fdb7a476-f16a-efa8-5c24-2cc506670c6a
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: Paradigms and Social Science | &nbsp; |
-| 2 | Theories of the Liberal State and Politics | &nbsp; |
-| 3 | Neo-classical Theories of the Economy | &nbsp; |
-| 4 | Liberal and Neo-classical Approaches | &nbsp; |
-| 5 | The Keynesian Revolution | &nbsp; |
-| 6 | Marxist Politics | Paper topic 1 distributed |
-| 7 | Marxist Economics and Value Theory | Paper 1 due |
-| 8 | Sociological Theories of Capitalism (I) | &nbsp; |
-| 9 | Sociological Theories of Capitalism (II) | &nbsp; |
-| 10 | Sociological Theories of Capitalism (III) | Paper topic 2 distributed |
-| 11 | Crisis and Capitalism | &nbsp; |
-| {{< td-colspan 3 >}}**Analyzing Groups in Society: New Paradigms?**{{< /td-colspan >}} |||
-| 12 | Institutionalism | Paper 2 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Paradigms and Social Science
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Theories of the Liberal State and Politics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Neo-classical Theories of the Economy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Liberal and Neo-classical Approaches
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Keynesian Revolution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Marxist Politics
+{{< tdclose >}}
+{{< tdopen >}}
+Paper topic 1 distributed
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Marxist Economics and Value Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Sociological Theories of Capitalism (I)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Sociological Theories of Capitalism (II)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Sociological Theories of Capitalism (III)
+{{< tdclose >}}
+{{< tdopen >}}
+Paper topic 2 distributed
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Crisis and Capitalism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Analyzing Groups in Society: New Paradigms?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Institutionalism
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
