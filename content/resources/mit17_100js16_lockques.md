@@ -4,6 +4,7 @@ description: 'A list of questions to consider while reading Hayek, Locke, Madiso
   and Olson. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-100j-political-economy-i-spring-2016/495f7f322a7c81162964e95a1bd0e07b_MIT17_100JS16_LockQues.pdf
 file_type: application/pdf
+parent_uid: 386547f1-2e5a-7c4a-af79-3748b52935f5
 resourcetype: Document
 title: 'Questions to consider when reading  Hayek, Locke, Madison (Federalist Papers)
   and  Olson '
